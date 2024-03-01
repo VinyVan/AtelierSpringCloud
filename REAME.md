@@ -43,3 +43,9 @@
   ![test gateway customers](captures/gateway_static_test_1.PNG)
 - Test de l'interface Product de la gateway:
   ![test gateway products](captures/gateway_static_test_2.PNG)
+
+## 5 - Discovey Service
+- Creation Discovery service
+ ![discovey service](captures/creation_discovery.PNG)
+- Test discovery
+![test discovery](captures/test_discovery.PNG)
