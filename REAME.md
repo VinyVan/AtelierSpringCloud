@@ -1,0 +1,37 @@
+# Spring Cloud
+- Creation de customer-service
+  ![customer-service](captures/customer-service1.PNG)
+
+- Customer Class:
+
+![customer class](captures/customer_class.PNG)
+
+- Customer Repo:
+
+![customer repo](captures/customer_repo.PNG)
+
+- Enregistrement  de quelques Customers dans la bdd 
+
+![customers bean](captures/instantiation_customers.PNG)
+
+- Test Customer Rest API:
+  ![customer test](captures/customer_test.PNG)
+
+## 2- Inventory Service
+
+- Creation de inventory-service
+  ![inventory-service](captures/inventory_service.PNG)
+- Product Class:
+    ![customer class](captures/product_class.PNG)
+
+- Product Repo:
+  ![product repo](captures/product_repo.PNG)
+
+- Enregistrement  de quelques Products dans la bdd
+![products bean](captures/instantiation_products.PNG)
+
+- Test Product Rest API:
+  ![product test](captures/product_test.PNG)
+
+## 3 -Creation GateWay
+![creation gatewat](captures/creation_gateway.PNG)
