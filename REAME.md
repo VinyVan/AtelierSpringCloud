@@ -17,3 +17,10 @@
 - Test Customer Rest API:
   ![customer test](captures/customer_test.PNG)
 
+## 2- Inventory Service
+
+- Creation de inventory-service
+  ![inventory-service](captures/inventory_service.PNG)
+- Product Class:
+    ![customer class](captures/product_class.PNG)
+
