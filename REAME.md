@@ -24,3 +24,6 @@
 - Product Class:
     ![customer class](captures/product_class.PNG)
 
+- Enregistrement  de quelques Products dans la bdd
+![products bean](captures/instantiation_products.PNG)
+
